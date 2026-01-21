@@ -1,15 +1,15 @@
-#Objetivo
+Objetivo
 
 Aplicar regressão linear simples para analisar a relação entre investimento em publicidade em TV e o volume de vendas, colocando em prática conceitos básicos de Machine Learning para problemas de regressão.
 
-#Dataset
+Dataset
 
 Dataset público de publicidade e vendas, contendo informações de investimento em TV e vendas correspondentes.
 
 Os dados utilizados podem ser encontrados em:
 https://www.kaggle.com/datasets/ashydv/advertising-dataset
 
-#Metodologia
+Metodologia
 
 Seleção da variável de investimento em TV como feature principal
 
@@ -21,7 +21,7 @@ Avaliação do modelo utilizando métricas de regressão
 
 Análise visual com gráfico de dispersão e linha de regressão
 
-#Resultados
+Resultados
 
 O modelo apresentou:
 
@@ -31,6 +31,6 @@ Mean Squared Error (MSE) ≈ 8.97
 
 Os resultados mostram uma relação linear clara entre investimento em TV e vendas, com desempenho consistente para um modelo simples.
 
-#Conclusão
+Conclusão
 
 Este projeto demonstra a aplicação prática de regressão linear em um problema real de negócio, servindo como base para estudos mais avançados em modelagem preditiva e análise de dados.
